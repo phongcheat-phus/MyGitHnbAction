@@ -1,5 +1,5 @@
-df sayhello();
-   print("Hello World")
+def sayhello();
+    print("Hello World")
 
-df sayGoodbye();
-   print("Hello, World!")
+def sayGoodbye();
+    print("Hello, World!")
