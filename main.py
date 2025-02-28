@@ -2,7 +2,7 @@
      """Print a greeting message."""
      print("Hello, World!")
 
- def say_Goodbye():
+ def say_Goodday():
      """Print a greeting message."""
      print("Hello, World!")
 
