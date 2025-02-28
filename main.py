@@ -1,5 +1,5 @@
-def sayhello();
+def sayhello():
     print("Hello World")
 
-def sayGoodbye();
+def sayGoodbye():
     print("Hello, World!")
